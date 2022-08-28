@@ -50,8 +50,16 @@ while True:
 
         valores = cursor.fetchall()
         
-        print(f'\n{valores}\n')
-        
+        for tupla in valores:
+            id_form= tupla[0]
+            nome_form = tupla[1]
+            idade_form = tupla[2]
+            
+            print(f'ID= {id_form}\nNome= {nome_form}\nIdade = {idade_form}\n\n')
+            
+            
+            
+                    
     elif reposta == 3:
         print('\nDigite abaixo as informações necessárias para ATUALIZAR um registro:\n')
         nome_up = input('\nDigite o nome do registro que sera alterado: ')
