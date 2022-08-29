@@ -6,4 +6,9 @@ Incialmente sem interface gráfica, esse mini sistema fornece ao usuario liberda
 Esta é a primeira versão desse projeto, tenho interesse em aprimora-lo com funcionalidades de permissão, interface gráfica e etc
 
 Vídeo no Youtube: https://youtu.be/G6nDxY4Jwsc
+
+É necessário para rodar o programa:
+
+- Biblioteca pyodbc - pip install pyodbc
+- Driver Mysqlite3 
  
