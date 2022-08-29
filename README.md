@@ -5,8 +5,10 @@ Incialmente sem interface gráfica, esse mini sistema fornece ao usuario liberda
 
 Esta é a primeira versão desse projeto, tenho interesse em aprimora-lo com funcionalidades de permissão, interface gráfica e etc
 
+Vídeo no Youtube: https://youtu.be/G6nDxY4Jwsc
+ 
 
-É necessário para funcionar normalamente:
+É necessário para funcionar normalamente: (Em testes)
 
 - Acessar o link: https://drive.google.com/drive/folders/1b1cZ_y98g1RODiDJgYlAs6vFkQPaLVv6?usp=sharing
 
