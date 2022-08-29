@@ -7,9 +7,3 @@ Esta é a primeira versão desse projeto, tenho interesse em aprimora-lo com fun
 
 Vídeo no Youtube: https://youtu.be/G6nDxY4Jwsc
  
-
-É necessário para funcionar normalamente: (Em testes)
-
-- Acessar o link: https://drive.google.com/drive/folders/1b1cZ_y98g1RODiDJgYlAs6vFkQPaLVv6?usp=sharing
-
-- Baixar todos os arquivos e executar o executável
